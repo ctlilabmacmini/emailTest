@@ -6,6 +6,6 @@
        Hello, world!
        
      ]]>
-    
+    <script>alert("hii");</script>
   </Content> 
 </Module>
