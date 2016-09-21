@@ -4,7 +4,9 @@
   <Content type="html">
      <![CDATA[ 
        Hello, world!
+       <script>
        alert("hi");
+       </script>
      ]]>
   </Content> 
 </Module>
