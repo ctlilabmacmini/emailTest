@@ -9,7 +9,7 @@
   console.log("vivek");
   
   var testDiv=document.getElementById("test");
-  testDiv.innerHTML = 'hey Man!!';
+  testDiv.innerHTML = 'My First Widget!!';
   </script>
      ]]>
    
