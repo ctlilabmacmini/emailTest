@@ -6,6 +6,6 @@
        Hello, world!
        
      ]]>
-    <script>alert("hii");</script>
+    <script>console.log("vivek");</script>
   </Content> 
 </Module>
