@@ -2,9 +2,24 @@
 <Module>
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
-     
+    <style type="text/css">
+     .config-options {
+    margin: 10px;
+  }
+  </style>
      <![CDATA[ 
        <div id="test"></div>
+       <table class="config-options">
+  <tr>
+  <td align="left" class="label">Size:</td>
+  <td align="left">
+  <select id="size" onchange="Update()">
+  <option selected="selected" value="300x250">Medium rectangle (300x250)</option>
+  <option value="728x90">Leaderboard (728x90)</option>
+  </select>
+  </td>
+  </tr>
+  </table>
        <script type="text/javascript">
   console.log("vivek");
   
