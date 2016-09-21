@@ -2,12 +2,12 @@
 <Module>
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
-     <script type="text/javascript">
-  console.log("vivek");
-  </script>
+     
      <![CDATA[ 
        Hello, world!ff
-       
+       <script type="text/javascript">
+  console.log("vivek");
+  </script>
      ]]>
    
   </Content> 
