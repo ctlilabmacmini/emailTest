@@ -7,7 +7,7 @@
     margin: 10px;
   }
   </style>
-     <![CDATA[ 
+   
        <div id="test"></div>
        <table class="config-options">
   <tr>
@@ -26,7 +26,7 @@
   var testDiv=document.getElementById("test");
   testDiv.innerHTML = 'My First Widget!!';
   </script>
-     ]]>
+    
    
   </Content> 
 </Module>
