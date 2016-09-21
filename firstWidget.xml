@@ -4,9 +4,11 @@
   <Content type="html">
      
      <![CDATA[ 
-       Hello, world!
+       <div id="test"></div>
        <script type="text/javascript">
   console.log("vivek");
+  var testDiv=document.getElementById("test");
+  testDiv.innerHTML = 'hey Man!!';
   </script>
      ]]>
    
