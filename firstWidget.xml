@@ -4,9 +4,10 @@
   <Content type="html">
      <![CDATA[ 
        Hello, world!
-       <script>
+       
+     ]]>
+     <script>
        alert("hi");
        </script>
-     ]]>
   </Content> 
 </Module>
