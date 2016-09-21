@@ -13,7 +13,7 @@
   <tr>
   <td align="left" class="label">Size:</td>
   <td align="left">
-  <select id="size" onchange="Update()">
+  <select id="size">
   <option selected="selected" value="300x250">Medium rectangle (300x250)</option>
   <option value="728x90">Leaderboard (728x90)</option>
   </select>
